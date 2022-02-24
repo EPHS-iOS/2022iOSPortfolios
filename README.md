@@ -19,3 +19,4 @@
 * [Evan L](https://github.com/Lembke2448/iOS-Portfolio-Lembke22)
 * [Haley](https://github.com/90306479/iOSPortfolio/)
 * [Sudeeksha](https://github.com/nsudeeksha/iOSPortfolioNooka22.git)
+* [Ariel](https://github.com/ArielThunstrom/iOS-Portfolio-Thunstrom22)
