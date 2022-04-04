@@ -22,3 +22,4 @@
 * [Ariel](https://github.com/ArielThunstrom/iOS-Portfolio-Thunstrom22)
 * [Jake](https://github.com/JakE-fiSh/Portfolio)
 * [Viswa](https://github.com/ViswaNadimpalli/Portfolio)
+* [Lucas B](https://github.com/Atar1-2600/iOS-Portfolio-Barkmeier22)
